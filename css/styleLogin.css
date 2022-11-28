@@ -1,0 +1,42 @@
+a{
+    text-decoration: none;
+}
+.hero{
+    background-image: url(../images/inputBg.jpg);
+    background-color: rgba(19, 19, 19, 0.589);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 800px;
+}
+.header h2{
+    padding-top: 150px;
+    font-size: 72px;
+}
+.header h3{
+    padding-bottom: 150px;
+}
+.destination label{
+    font-size: 24px;
+    margin-top: 5px;
+}
+.destination input,.destination textarea{
+    background-color:rgb(231, 231, 231) ;
+    margin-top: 10px;
+}
+.destination input{
+    background-color: none;
+}
+
+.successfull{
+    background-image: url(../images/succesfull.png);
+    background-color: rgba(19, 19, 19, 0.589);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.box{
+    padding-top: 200px;
+}
+
