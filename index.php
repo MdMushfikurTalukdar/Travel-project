@@ -15,7 +15,7 @@
         <div class="container">
             <div class="nav row pt-4">
                 <div class="col-6 text-light"> <h4>Travel & Explore</h4></div>
-                <div class="col-6 d-flex justify-content-end"> <a href="sign_in.php" class="btn btn-outline-light rounded-pill">Sign up Now</a></div>
+                <div class="col-6 d-flex justify-content-end"> <a href="signin.php" class="btn btn-outline-light rounded-pill">Sign up Now</a></div>
             </div>
             </div>
             <div class="header text-center pt-5 text-light">
